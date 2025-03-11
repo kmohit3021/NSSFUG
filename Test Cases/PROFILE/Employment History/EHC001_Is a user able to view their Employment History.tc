@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EHC001_Is a user able to view their Employment History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7665ba6-06f1-485c-9846-68b7f9a62fd7</testCaseGuid>
+</TestCaseEntity>

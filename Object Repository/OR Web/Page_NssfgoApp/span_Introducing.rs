@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Introducing</name>
+   <tag></tag>
+   <elementGuidId>8c08346f-589a-44fb-965a-b27066fedc5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Introducing' or . = 'Introducing')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-white[_ngcontent-eyn-c77=&quot;&quot;] .fw-semibold.d-block</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Introducing' or . = 'Introducing')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Introducing&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd4442ec-4bdb-4bb4-8f7a-6c2cf3e1031b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-7 fw-semibold me-2 d-block lh-1 pb-2 opacity-75</value>
+      <webElementGuid>9d8fc42e-ae16-41a0-af5e-ec1a829f1401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Introducing</value>
+      <webElementGuid>8bf15693-bff1-49fd-8e0e-9606664b410e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Introducing</value>
+      <webElementGuid>f9a2da71-580b-4de9-b5ae-ee6b71407429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7527a43ea903f15852eeaf0f34fb42b7</value>
+      <webElementGuid>4982e727-f0cf-4cfc-af81-788d1f692b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@_ngcontent-eyn-c77 = '')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-semibold ') and contains(concat(' ', normalize-space(@class), ' '), ' d-block ')]</value>
+      <webElementGuid>62ce30b7-9ed6-4490-926d-95a795e9c2b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Introducing' or . = 'Introducing')]</value>
+      <webElementGuid>dacfa172-9ecb-48d2-9c98-a850767deb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@_ngcontent-eyn-c77 = '')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-semibold ') and contains(concat(' ', normalize-space(@class), ' '), ' d-block ')]</value>
+      <webElementGuid>e3f8d266-094e-4dc1-8181-4da4220612c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

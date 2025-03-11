@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Nationality</name>
+   <tag></tag>
+   <elementGuidId>cd061736-2e44-4ac9-a965-ce8bab828ece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-kt-customer-payment-method=&quot;row&quot;]:nth-child(3) .flex-equal:nth-child(2) tr:nth-child(3) td.text-muted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Nationality' or . = 'Nationality')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Nationality&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f0a2768a-b880-4438-b97d-529202581296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-muted min-w-125px w-125px py-2</value>
+      <webElementGuid>64cb7fca-16b2-44b4-9783-25c3ca900357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nationality</value>
+      <webElementGuid>f9d2d5dd-734d-45d4-9e79-4781822c638a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Nationality</value>
+      <webElementGuid>0eebf12b-fadf-488c-b66f-984bbef41b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cf3e58a36c9218c218d268a9b41e4153</value>
+      <webElementGuid>9648bccd-fba4-43cd-9caf-050e28f185e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-kt-customer-payment-method = 'row') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex-equal ') and (position() = 2)]//*[(name() = 'tr') and (position() = 3)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted ')]</value>
+      <webElementGuid>cf4b5900-5bec-4306-ae92-b207486aa06f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Nationality' or . = 'Nationality')]</value>
+      <webElementGuid>79008fcf-f108-4f07-b973-6dae542be7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-kt-customer-payment-method = 'row') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex-equal ') and (position() = 2)]//*[(name() = 'tr') and (position() = 3)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted ')]</value>
+      <webElementGuid>ee2ffb66-276a-42dc-b2e3-18c2c03bd3e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ESC001_Can a user view their account summary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe4c06a6-5e42-41c8-b729-b83dc38291c7</testCaseGuid>
+</TestCaseEntity>

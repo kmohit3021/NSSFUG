@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Dependant</name>
+   <tag></tag>
+   <elementGuidId>d4576d4d-e6f0-461b-8996-81680e1fa7c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='kt_contact_modal_button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kt_contact_modal_button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'kt_contact_modal_button' and (text() = ' Add Dependant' or . = ' Add Dependant')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Dependant&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1443e49-adb1-4961-9f1e-1787b8224437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kt_contact_modal_button</value>
+      <webElementGuid>4e719f22-b87b-4fd4-82b1-51fc9f26663b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light-success btn-outline-dashed shadow btn-active-light-white fs-7 _h50</value>
+      <webElementGuid>98778314-1725-4f3c-8183-ad9f9241eb97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Dependant</value>
+      <webElementGuid>c647ffd1-7af4-4b5d-86ed-53edb2d938cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_contact_modal_button&quot;)</value>
+      <webElementGuid>37a13ac7-26b4-4592-8095-4833724695dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='kt_contact_modal_button']</value>
+      <webElementGuid>2b272934-e82a-4dbe-b4e3-86321ea81477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'kt_contact_modal_button' and (text() = ' Add Dependant' or . = ' Add Dependant')]</value>
+      <webElementGuid>bf7c901b-efd5-4c0f-9813-3056e672307a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Dependants'])[1]/following::button[1]</value>
+      <webElementGuid>ff35156e-6cf6-465e-9588-049327b4b7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::button[1]</value>
+      <webElementGuid>244ad0a6-4279-4514-b252-b4b641f02c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shallot Narukunda sserumaga'])[1]/preceding::button[1]</value>
+      <webElementGuid>9791f1b0-2708-491c-a5e8-c825e10f0c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Dependant']/parent::*</value>
+      <webElementGuid>6c57eacc-f15b-4460-8ce0-1a2d66fc93e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_customer_view_overview_tab']/div/div/div[2]/button</value>
+      <webElementGuid>4a348f10-5731-4ec3-aa49-95c860aef003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>51208762-9e77-4012-938f-c50b576f5510</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

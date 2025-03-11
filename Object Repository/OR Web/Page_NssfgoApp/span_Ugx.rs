@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ugx</name>
+   <tag></tag>
+   <elementGuidId>3e48f5d4-8a97-4794-b626-1637494f993e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' col ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bolder ') and contains(concat(' ', normalize-space(@class), ' '), ' justify-content-center ')]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.col:nth-child(2) .fw-bolder.justify-content-center span._fpoppins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ugx&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1da0ff7c-a72c-4b5e-8777-71fd473e34b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-800 _fpoppins</value>
+      <webElementGuid>82c7deed-61d4-455a-a54c-2c6e83291129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ugx</value>
+      <webElementGuid>bf7e8b05-0af8-4580-904e-d3b59674efcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Ugx</value>
+      <webElementGuid>a3c00ff4-9bd4-4a52-aa0d-71b775c4ebc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9c16274433778a568a47afc7f3623191</value>
+      <webElementGuid>4e3286c0-66ad-495d-9861-46be44bba893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' col ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bolder ') and contains(concat(' ', normalize-space(@class), ' '), ' justify-content-center ')]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ')]</value>
+      <webElementGuid>6f5a4e28-cf82-426c-9cbb-7f44b8e28987</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ugx' or . = 'Ugx')]</value>
+      <webElementGuid>db4f5630-83e9-462d-acba-b9556bd5001f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' col ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bolder ') and contains(concat(' ', normalize-space(@class), ' '), ' justify-content-center ')]//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ')]</value>
+      <webElementGuid>099e7ae4-3ef3-4c94-8b74-f690b21357b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

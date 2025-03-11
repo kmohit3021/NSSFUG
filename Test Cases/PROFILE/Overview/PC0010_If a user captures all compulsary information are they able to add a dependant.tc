@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC0010_If a user captures all compulsary information are they able to add a dependant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c23972a1-6840-4cba-bd75-86401ac36db9</testCaseGuid>
+</TestCaseEntity>

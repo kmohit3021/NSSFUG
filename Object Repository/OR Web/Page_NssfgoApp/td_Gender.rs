@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Gender</name>
+   <tag></tag>
+   <elementGuidId>76073c6c-d710-4483-8fd7-62e2fd675b34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.flex-equal:nth-child(2) tr:nth-child(4) td.text-muted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Gender' or . = 'Gender')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Gender&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>306bd480-19b5-41c0-9678-7efeed5d2fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-muted min-w-125px w-125px py-2</value>
+      <webElementGuid>4ba68870-81d1-4e25-a495-1ff0f2de047e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gender</value>
+      <webElementGuid>125d24df-b780-46cf-a3ac-48b28fc6a131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Gender</value>
+      <webElementGuid>758ed499-d42c-496b-a350-c88c9e914321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-de717ea5659230cbf672233322a1b5ed</value>
+      <webElementGuid>2a6d1efd-c577-45a7-9d95-a408e169e02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex-equal ') and (position() = 2)]//*[(name() = 'tr') and (position() = 4)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted ')]</value>
+      <webElementGuid>fcea5330-0fea-4307-a96f-9454ab28f4db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Gender' or . = 'Gender')]</value>
+      <webElementGuid>626eb5d1-3fe5-40e0-9938-89f491347c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex-equal ') and (position() = 2)]//*[(name() = 'tr') and (position() = 4)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted ')]</value>
+      <webElementGuid>9d180f74-7e46-4877-a2db-493ef8185a8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

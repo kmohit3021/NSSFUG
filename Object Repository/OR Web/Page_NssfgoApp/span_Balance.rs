@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Balance</name>
+   <tag></tag>
+   <elementGuidId>dad49724-ff94-4416-8dd0-b76eae2ff29f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Balance' or . = 'Balance')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.col:nth-child(1) .fw-bold._fpoppins.text-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Balance&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7859b639-48a4-4faa-bd65-76f1b35aac58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-8 fw-bold text-gray-700 text-primary pb-1 px-2 _fpoppins</value>
+      <webElementGuid>47458e94-2ec6-4beb-b6e4-c57497e61d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Balance</value>
+      <webElementGuid>555f543b-14cf-44cc-8e74-115f73f84c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Balance</value>
+      <webElementGuid>4aaf0ffe-f60c-4928-8b11-c93ad5b62e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b8dd29ead5e8b01e581298595b562207</value>
+      <webElementGuid>d97754a6-7f08-4b4f-bca2-01a40f70844e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ') and contains(concat(' ', normalize-space(@class), ' '), ' text-primary ')]</value>
+      <webElementGuid>ae0ec155-2b01-4850-8aff-bf13e9c9568a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Balance' or . = 'Balance')]</value>
+      <webElementGuid>d169fbb2-08eb-4cf6-a20e-26a30c1182db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ') and contains(concat(' ', normalize-space(@class), ' '), ' text-primary ')]</value>
+      <webElementGuid>78ba4329-28df-4768-910a-91849aad099b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

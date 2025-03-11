@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC005_Is a user able to view their NIN Information from their Profile Overview incase they have one</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1278666-30ab-4f9a-9826-71ce3dbc88a3</testCaseGuid>
+</TestCaseEntity>

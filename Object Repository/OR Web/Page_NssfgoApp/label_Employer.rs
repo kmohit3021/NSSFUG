@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Employer</name>
+   <tag></tag>
+   <elementGuidId>0e27f6aa-e1f5-43ea-9d1b-813165c5d8ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Employer' or . = 'Employer')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-popper-placement=&quot;bottom-end&quot;] .fw-bold._fpoppins.form-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#kt_content >> internal:text=&quot;Employer&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fc8c7078-1b63-4b1f-8b6e-987badd01267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label fs-6 fw-bold _fpoppins mb-3</value>
+      <webElementGuid>99901c8f-0959-4621-967e-4c93447df1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employer</value>
+      <webElementGuid>3a570a96-fc40-4694-9c8f-c165b4797786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Employer</value>
+      <webElementGuid>c144872d-3e7e-4d76-90c7-211b419b907c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-93da1aeb884cac5c85fe2270a880ef97</value>
+      <webElementGuid>bc657fd2-b906-449f-ae00-7c4985a0e3e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-popper-placement = 'bottom-end']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ') and contains(concat(' ', normalize-space(@class), ' '), ' form-label ')]</value>
+      <webElementGuid>ce9a73fe-f8bd-43b5-9f48-7203713c56fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Employer' or . = 'Employer')]</value>
+      <webElementGuid>376a17e9-d32e-496b-91ca-76258b8d8daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-popper-placement = 'bottom-end']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' _fpoppins ') and contains(concat(' ', normalize-space(@class), ' '), ' form-label ')]</value>
+      <webElementGuid>0ca293e6-d49c-427e-a5a5-b21634aa6e65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

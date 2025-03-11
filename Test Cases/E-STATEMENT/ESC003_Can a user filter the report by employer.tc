@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ESC003_Can a user filter the report by employer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aec185a1-562a-411d-9fe9-17678d080a6f</testCaseGuid>
+</TestCaseEntity>

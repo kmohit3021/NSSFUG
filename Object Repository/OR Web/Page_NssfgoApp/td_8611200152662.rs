@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_8611200152662</name>
+   <tag></tag>
+   <elementGuidId>f2b6b818-e5e7-4fd5-a55a-db27ffd18319</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//td[text()='NSSF Number']//following-sibling::td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) td.fw-boldest</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '8611200152662' or . = '8611200152662')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;8611200152662&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>03f1ad6a-5654-4f1b-a7cb-0fff7e8af439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-boldest</value>
+      <webElementGuid>03863d6b-c103-49e1-8704-50ac920d995b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8611200152662</value>
+      <webElementGuid>141bae1e-3ef6-4bc8-aad2-45768f54faf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>8611200152662</value>
+      <webElementGuid>46803f61-f25d-49ac-b3b9-325e6c4c6c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cb22acb76eb19cc6a169e03d2985c7bc</value>
+      <webElementGuid>4d91824a-a0bd-417e-85ad-e7a7055a81aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-boldest ')]</value>
+      <webElementGuid>05db53e7-d9f0-4a71-9228-15ab1ca258c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '8611200152662' or . = '8611200152662')]</value>
+      <webElementGuid>9a147142-1769-4078-bc71-abd89af099dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' fw-boldest ')]</value>
+      <webElementGuid>17d1dff1-8fe9-4567-8076-dce03fb9ec23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

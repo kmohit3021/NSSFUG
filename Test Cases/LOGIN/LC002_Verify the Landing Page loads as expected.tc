@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LC002_Verify the Landing Page loads as expected</name>
+   <tag>LOGIN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34ab78da-5a3d-4f74-94ff-abbdf45e8b71</testCaseGuid>
+</TestCaseEntity>

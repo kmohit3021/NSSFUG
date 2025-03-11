@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_opensmartlifedialogbtn</name>
+   <tag></tag>
+   <elementGuidId>1e44c4ed-9bd0-4bc8-8115-ee3629734b60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-bs-toggle = 'modal' and @data-bs-target = '#kt_modal_upgrade_plan' and @id = 'opensmartlifedialogbtn' and (text() = 'opensmartlifedialogbtn' or . = 'opensmartlifedialogbtn')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#opensmartlifedialogbtn</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@data-bs-toggle = 'modal' and @id = 'opensmartlifedialogbtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Enroll Here&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01124804-1e0f-4c0d-b620-b286fd108ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>f4679b05-e383-4fda-b91b-0f96a9eccaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#kt_modal_upgrade_plan</value>
+      <webElementGuid>f4afaec4-877d-48c4-99e1-e965aad7af80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opensmartlifedialogbtn</value>
+      <webElementGuid>24bc09c8-6723-43f0-b3a2-f3bf14fc9725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success fs-7 h-60px me-5 w-100 raise-btn text-gray-800 fw-bold</value>
+      <webElementGuid>e466b801-1fa1-4487-84af-37e2a56f1b8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>opensmartlifedialogbtn</value>
+      <webElementGuid>ff465c79-412d-4bae-87ec-706f36025125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value> Enroll Here</value>
+      <webElementGuid>52d76a94-eb83-433b-a65b-1e254f183512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-846bcd83e4d186b7988286b9e9f800d0</value>
+      <webElementGuid>df957b96-e1f4-469b-be11-b41a898dd62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'opensmartlifedialogbtn']</value>
+      <webElementGuid>4565b41c-70e1-4433-a3c1-3e4f99e0b3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@data-bs-toggle = 'modal' and @data-bs-target = '#kt_modal_upgrade_plan' and @id = 'opensmartlifedialogbtn' and (text() = 'opensmartlifedialogbtn' or . = 'opensmartlifedialogbtn')]</value>
+      <webElementGuid>a4f8c1d2-1f95-4a51-8c0c-16a9f1eb8e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'opensmartlifedialogbtn']</value>
+      <webElementGuid>f9ec5b7d-d658-4c14-b88b-ff73c7261909</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

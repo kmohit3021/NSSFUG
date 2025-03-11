@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BC001_Does the Make Benefit view from the Benefits menu load as expected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d8c6c55-1dbb-4ac5-ac70-7d82718ea76a</testCaseGuid>
+</TestCaseEntity>

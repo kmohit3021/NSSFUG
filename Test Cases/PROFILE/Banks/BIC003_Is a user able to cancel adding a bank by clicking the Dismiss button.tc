@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BIC003_Is a user able to cancel adding a bank by clicking the Dismiss button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a86ebb7b-c4b2-4349-9f30-237283b3611d</testCaseGuid>
+</TestCaseEntity>

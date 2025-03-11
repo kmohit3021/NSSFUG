@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Village</name>
+   <tag></tag>
+   <elementGuidId>3bc11ed7-3b26-4538-8515-cc79e1616530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.flex-equal:nth-child(1) tr:nth-child(5) td.text-muted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Village' or . = 'Village')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Village&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9f0ac8fc-cd7a-4df1-8a6b-f25bcf4ce059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-muted min-w-125px w-125px py-2</value>
+      <webElementGuid>d5566e04-3975-4882-9daa-af4bb2c4095a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Village</value>
+      <webElementGuid>80769741-a861-4e67-ba3d-45511998d6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Village</value>
+      <webElementGuid>bf20fac4-2a50-4877-bd50-56ead4253f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e1fa33b17cd2668d7028e4051dd289a8</value>
+      <webElementGuid>7e517c33-8dbc-4902-8869-ec7903f7eb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex-equal ') and (position() = 1)]//*[(name() = 'tr') and (position() = 5)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted ')]</value>
+      <webElementGuid>8da32285-2a09-4467-95c0-9e802a7a63bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Village' or . = 'Village')]</value>
+      <webElementGuid>1b17a168-3ae3-430d-b5e2-5cdefaf0dd9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex-equal ') and (position() = 1)]//*[(name() = 'tr') and (position() = 5)]//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted ')]</value>
+      <webElementGuid>91fb0d0d-dfa0-4f43-bb8d-7222c02bd7cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

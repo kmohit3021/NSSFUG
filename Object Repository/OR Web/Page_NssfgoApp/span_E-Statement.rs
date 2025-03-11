@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_E-Statement</name>
+   <tag></tag>
+   <elementGuidId>da258d49-7dae-45e1-90b5-218e1227f5fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'E-Statement' or . = 'E-Statement')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-text-dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;E-Statement&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70a65cbc-3612-4f90-921c-2463e7995df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-text-dark fs-4</value>
+      <webElementGuid>f8c00863-6151-4ac7-9701-d231d4409ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E-Statement</value>
+      <webElementGuid>986b14bd-8a60-47f0-9e69-f45fa9d08706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>E-Statement</value>
+      <webElementGuid>5baafd26-d62d-47e5-a92b-fae810ebd347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-314fe8a9e62cf3b6a1fe86d39ec153b8</value>
+      <webElementGuid>b539e856-c05a-4e09-b535-e4a6dd09a039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-text-dark ')]</value>
+      <webElementGuid>beca48bf-04e5-415e-abcf-8167cfd2390e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'E-Statement' or . = 'E-Statement')]</value>
+      <webElementGuid>10606ff5-ab38-4229-bc30-30aeabc3706c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-text-dark ')]</value>
+      <webElementGuid>675d5ce8-3cb1-491e-8a12-e89b3fef6fab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;1. Input a correct phone number/email address
+2. Click the Login button
+3. Click the Login button&quot;
+
+Login button should be grayed out and inactive</description>
+   <name>LC008_Is a user able to login without inputing a code</name>
+   <tag>LOGIN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d393660-59b9-4557-8123-d353665ccde4</testCaseGuid>
+</TestCaseEntity>

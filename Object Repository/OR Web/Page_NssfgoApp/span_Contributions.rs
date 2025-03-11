@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contributions</name>
+   <tag></tag>
+   <elementGuidId>419e29ab-8db2-484d-8666-1aaba59d3121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Contributions' or . = 'Contributions')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) td:nth-child(2) span[_ngcontent-clh-c76=&quot;&quot;] span[_ngcontent-clh-c76=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Contributions National Social Security Fund 1 / 2025 2,615,959 Paid on Feb 14, 2025&quot;i] >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b39da5cd-5259-4863-bb61-a2b91b367415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contributions</value>
+      <webElementGuid>1c765973-f773-480a-a58f-4a7516f97041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Contributions</value>
+      <webElementGuid>09a3d3b5-4d55-4ac4-a416-fec36d7222b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dc94d73f0e1ff32d8247bf4ebe9f3e9d</value>
+      <webElementGuid>a8c0092e-c2b0-45f1-a28b-9c7f43d1dcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[(name() = 'td') and (position() = 2)]//span[@_ngcontent-clh-c76 = '']//span[@_ngcontent-clh-c76 = '']</value>
+      <webElementGuid>baaf9975-3fe7-46e3-8ae2-e8b3ea28b344</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Contributions' or . = 'Contributions')]</value>
+      <webElementGuid>a46275c8-e504-4f73-8cc0-4cb8d5e65a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[(name() = 'td') and (position() = 2)]//span[@_ngcontent-clh-c76 = '']//span[@_ngcontent-clh-c76 = '']</value>
+      <webElementGuid>368947dd-b631-465c-a672-f68cfa6745d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

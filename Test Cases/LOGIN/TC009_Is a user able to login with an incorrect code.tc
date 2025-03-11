@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;1. Input a correct phone number/email address
+2. Click the Login button
+3. Enter incorrect code
+4. Click the Login button&quot;
+
+Pop up screen with error message &quot;Invalid or expired OTP, Re-initate&quot; and a button to Try Again is displayed</description>
+   <name>TC009_Is a user able to login with an incorrect code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80b66e0a-1f6b-44e2-b041-9cad4df44069</testCaseGuid>
+</TestCaseEntity>

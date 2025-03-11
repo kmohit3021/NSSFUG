@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ESC004_Can a user filter the report by type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f0b84fa-3493-49bf-a8bb-7988ce9ccefa</testCaseGuid>
+</TestCaseEntity>

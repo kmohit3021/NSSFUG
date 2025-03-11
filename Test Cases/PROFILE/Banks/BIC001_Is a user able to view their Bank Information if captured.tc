@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BIC001_Is a user able to view their Bank Information if captured</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>358fc030-2170-4d89-9381-aa18ea032d57</testCaseGuid>
+</TestCaseEntity>

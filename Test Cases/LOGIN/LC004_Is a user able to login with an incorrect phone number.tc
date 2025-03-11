@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LC004_Is a user able to login with an incorrect phone number</name>
+   <tag>LOGIN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7bf08af-1bf0-4161-b1c9-ca5f485fc9ad</testCaseGuid>
+</TestCaseEntity>

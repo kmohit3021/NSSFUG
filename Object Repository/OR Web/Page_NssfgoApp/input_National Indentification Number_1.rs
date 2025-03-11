@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_National Indentification Number_1</name>
+   <tag></tag>
+   <elementGuidId>86a31831-7922-42a9-b770-ac0a62553e19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.form-control._ttu.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'text' and @placeholder = 'National Indentification Number' and (text() = 'National Indentification Number' or . = 'National Indentification Number')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;National Indentification Number&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e0a67a0d-0e93-4ea2-88f7-058ee192fa31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>nin</value>
+      <webElementGuid>8caf86e4-6578-4510-bd97-259e8e488cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>319b7a3e-7688-4633-9506-e73e28134dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>minlength</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>e10ef59e-0c3e-4cbb-bc71-e90f6bfc816a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b20ba64a-1e81-4be6-9ebd-0665e1c10376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>National Indentification Number</value>
+      <webElementGuid>ea243d70-f369-4959-acc1-0f4ce6aea30d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>4b601f97-1e45-4945-b1f9-9a9afabe621c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control _h60 _ttu text-gray-700 fs-7 text-center fw-normal _fpoppins text-uppercase ng-untouched ng-invalid ng-dirty</value>
+      <webElementGuid>aa97f964-630e-402d-86d2-79275da32c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>National Indentification Number</value>
+      <webElementGuid>c8885016-e45f-45c1-865d-645227e6040c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a49cabfa2c89f15ddc9d0a33ac992647</value>
+      <webElementGuid>06025b72-5952-439e-bf77-ef83c3a5f504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-control ') and contains(concat(' ', normalize-space(@class), ' '), ' _ttu ') and contains(concat(' ', normalize-space(@class), ' '), ' ng-dirty ')]</value>
+      <webElementGuid>625c9088-51c2-4b2c-bdcb-fa16a91d7bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'National Indentification Number' and (text() = 'National Indentification Number' or . = 'National Indentification Number')]</value>
+      <webElementGuid>f46ba977-1369-4530-9a1c-84008a23e87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-control ') and contains(concat(' ', normalize-space(@class), ' '), ' _ttu ') and contains(concat(' ', normalize-space(@class), ' '), ' ng-dirty ')]</value>
+      <webElementGuid>dc5b5594-c153-4740-969a-ea99e52ceb8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

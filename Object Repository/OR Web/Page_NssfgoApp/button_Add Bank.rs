@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Bank</name>
+   <tag></tag>
+   <elementGuidId>6e105426-1887-4403-8c19-9a7b9c2c2999</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='bank_modal_button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bank_modal_button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'bank_modal_button' and (text() = ' Add Bank' or . = ' Add Bank')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#bank_modal_button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9bacf631-ffb3-4814-81d9-4b34dc83e21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bank_modal_button</value>
+      <webElementGuid>a9661796-0c97-4998-a3d2-3165ff329da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary h-60px fs-7</value>
+      <webElementGuid>d7fd4f21-fa4f-4f79-821c-2ebf67009402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Bank</value>
+      <webElementGuid>75ecfc27-5ef4-4ab8-84fe-81765ef6ffe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bank_modal_button&quot;)</value>
+      <webElementGuid>6ae125cd-1e19-4e3c-95c3-a6baa0a2809a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='bank_modal_button']</value>
+      <webElementGuid>0c1f8768-6c38-450f-885c-91cddd3688e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'bank_modal_button' and (text() = ' Add Bank' or . = ' Add Bank')]</value>
+      <webElementGuid>7e6d9d81-1c6f-4830-8d04-0b9232acf833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid To'])[1]/following::button[1]</value>
+      <webElementGuid>4a16b647-40a5-4f46-94c0-699ecd12c2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid From'])[1]/following::button[1]</value>
+      <webElementGuid>ae958a60-cce3-49e0-802a-0c59203edd81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Bank'])[1]/preceding::button[1]</value>
+      <webElementGuid>7b3dd12d-78e3-4e53-985a-bfc789d47ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Number'])[2]/preceding::button[1]</value>
+      <webElementGuid>98b8448f-3af5-4aea-b87b-4b08b981450f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Bank']/parent::*</value>
+      <webElementGuid>9336fcc4-3f3f-41e5-abd7-05fadcf1ba82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/div/button</value>
+      <webElementGuid>a0a306a6-5d1d-49cc-a017-94443582ffc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/button</value>
+      <webElementGuid>8de35436-ad53-4797-9c68-040beb622c4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

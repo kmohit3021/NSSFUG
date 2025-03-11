@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LC0011_Is a user able to login with an correct code using their email address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6dcbefc-df16-4e5b-9743-cac32921fe2a</testCaseGuid>
+</TestCaseEntity>

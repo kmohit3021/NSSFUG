@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Mobile Number or Email_form-control __ca2e04</name>
+   <tag></tag>
+   <elementGuidId>4a69670f-5854-45ab-9721-7368d0c7965e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'text' and @placeholder = 'Enter Mobile Number or Email here']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control._h60._ttu.text-gray-700.fs-7.fw-normal._fpoppins.text-center.email-mobile-field.ng-tns-c83-0.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter Mobile Number or Email here&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bf7574d0-b80e-4404-8366-a6db0dd66f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>nssfnumber</value>
+      <webElementGuid>b58ce059-07ad-4d9e-9814-5a529f642df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>462626a9-1e9e-4843-b11d-6e7c9db2b6aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>minlength</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>9f363211-05cc-423a-bf0c-2af352d8d79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Mobile Number or Email here</value>
+      <webElementGuid>07f86b66-3b18-4e01-bfbb-0098a6bd7369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>8bdf43a7-c5bf-4e7c-b5e3-78b29f729596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control _h60 _ttu text-gray-700 fs-7 fw-normal _fpoppins text-center email-mobile-field ng-tns-c83-0 ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>695dadfb-03e3-4899-a3c3-7c1f58a90898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;header-fixed header-tablet-and-mobile-fixed aside-fixed aside-secondary-disabled&quot;]/app-root[1]/app-login[@class=&quot;ng-tns-c83-0 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column flex-root ng-tns-c83-0&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row flex-column-fluid stepper stepper-pills stepper-column ng-tns-c83-0&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row-fluid py-10 bg-dark h-200vh ng-tns-c83-0&quot;]/div[@class=&quot;d-flex flex-center flex-column flex-column-fluid ng-tns-c83-0&quot;]/div[@class=&quot;row rounded align-items-center flex-center mt-10 ng-tns-c83-0 ng-star-inserted&quot;]/div[@class=&quot;col-lg-6 w-lg-500px col-md-6 _login-card ng-tns-c83-0&quot;]/div[@class=&quot;card-bordered shadow card w-100 h-500px ng-tns-c83-0&quot;]/div[@class=&quot;w-100 mt-10 options-head ng-tns-c83-0&quot;]/div[@class=&quot;w-100 px-10 ng-tns-c83-0 ng-star-inserted&quot;]/form[@class=&quot;form w-100 px-15 ng-tns-c83-0 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ng-tns-c83-0&quot;]/div[@class=&quot;fv-row ng-tns-c83-0&quot;]/div[@class=&quot;position-relative mb-3 ng-tns-c83-0&quot;]/input[@class=&quot;form-control _h60 _ttu text-gray-700 fs-7 fw-normal _fpoppins text-center email-mobile-field ng-tns-c83-0 ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>e54939b4-6ea7-4323-98ee-bdb3dcdb6ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter Mobile Number or Email here']</value>
+      <webElementGuid>24b0f0a4-113a-45d2-a45f-a98886397722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>70be8e8e-d0c8-4bd5-91a5-16f1539b9d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>1136a542-0b85-4956-9e71-fe9d27d4b8bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

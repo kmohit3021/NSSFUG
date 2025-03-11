@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BIC002_Is the Add Bank button active</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d9ef122-da47-495d-aedc-089c8a62e0af</testCaseGuid>
+</TestCaseEntity>

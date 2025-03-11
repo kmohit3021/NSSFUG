@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_path</name>
+   <tag></tag>
+   <elementGuidId>ea103618-ebec-499d-b012-d8166fd2217b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[(text() = 'path' or . = 'path')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[_ngcontent-eyn-c77=&quot;&quot;]:nth-child(2) > .account_header path[fill=&quot;currentColor&quot;]:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > div > .symbol > .symbol-label > .svg-icon > svg > path:nth-child(2)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>6e784539-4a23-4b89-82ab-2ef3592bf913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M20 22H3C2.4 22 2 21.6 2 21V3C2 2.4 2.4 2 3 2H20C20.6 2 21 2.4 21 3V21C21 21.6 20.6 22 20 22ZM19 4H4V8H19V4ZM6 18H4V20H6V18ZM6 14H4V16H6V14ZM6 10H4V12H6V10ZM10 18H8V20H10V18ZM10 14H8V16H10V14ZM10 10H8V12H10V10ZM14 18H12V20H14V18ZM14 14H12V16H14V14ZM14 10H12V12H14V10ZM19 14H17V20H19V14ZM19 10H17V12H19V10Z</value>
+      <webElementGuid>5eefb559-b763-444a-891d-5e5193d7d29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>4c1efe20-ce66-4106-81c9-fd16e8bd0d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>15e54c26-9ab2-4f31-a85d-7c86dff1b615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1d29c881e6a7cce371fd3f29f973ffc5</value>
+      <webElementGuid>61eaa61a-644f-4c31-944e-81627337a4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@_ngcontent-eyn-c77 = '') and (name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' account_header ')]//*[(@fill = 'currentColor') and (name() = 'path') and (position() = 2)]</value>
+      <webElementGuid>d257467b-725f-498f-ae74-5aeea2d18834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[(text() = 'path' or . = 'path')]</value>
+      <webElementGuid>a6ec6263-2186-4c0f-9fe5-8617c1eeb3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@_ngcontent-eyn-c77 = '') and (name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' account_header ')]//*[(@fill = 'currentColor') and (name() = 'path') and (position() = 2)]</value>
+      <webElementGuid>0c73d3ca-7962-47ca-81ee-1c20d9095fef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

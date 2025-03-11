@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC007_Is the Add Dependant button active</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5927376d-1efe-4b16-99d5-eb01e8b35083</testCaseGuid>
+</TestCaseEntity>

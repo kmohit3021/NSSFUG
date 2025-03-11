@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC002_Is a user able to view their Accounts Relationship Information from their Profile Overview</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d5ca117-c76a-4e61-b53e-86f9f84dce62</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select a benefit type Age Benefit 55_26ef13</name>
+   <tag></tag>
+   <elementGuidId>84362ea1-cc6c-4cbc-8bf9-ab4eaa27c630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.h-60px.text-center.text-gray-700.fs-7._fpoppins.mb-5.form-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d716d556-b4eb-48e5-a419-d407fb3fa539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control h-60px text-center text-gray-700 fs-7 _fpoppins mb-5 form-select</value>
+      <webElementGuid>d0652faf-277f-4fa6-a613-aff4abfae5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a benefit type Age Benefit 55 Years  Withdrawal Benefit 50   Midterm Benefit  45   Exempted Employement Benefit  Emigration Grant Benefit Non Ugandan </value>
+      <webElementGuid>d2c39e2f-5797-43f0-a862-ee425d306704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_stepper_example_vertical&quot;)/div[@class=&quot;flex-row-fluid card w-100 shadow-sm p-20 min-h-500px&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/select[@class=&quot;form-control h-60px text-center text-gray-700 fs-7 _fpoppins mb-5 form-select&quot;]</value>
+      <webElementGuid>c6369fb3-8a90-45be-878b-3c7fea26e512</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='']</value>
+      <webElementGuid>7ef18e71-69f6-4884-900d-8f5b94e93007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select a benefit type Age Benefit 55 Years  Withdrawal Benefit 50   Midterm Benefit  45   Exempted Employement Benefit  Emigration Grant Benefit Non Ugandan ' or . = 'Select a benefit type Age Benefit 55 Years  Withdrawal Benefit 50   Midterm Benefit  45   Exempted Employement Benefit  Emigration Grant Benefit Non Ugandan ')]</value>
+      <webElementGuid>4ede0f89-d34b-434b-882a-e28cd0d87839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Benefit Type'])[1]/following::select[1]</value>
+      <webElementGuid>048274ac-2d87-404d-89f1-1597026dcded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How can we serve you better'])[1]/following::select[1]</value>
+      <webElementGuid>f60b31ba-bec5-4047-b3b5-3755e140d2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TERMS AND CONDITIONS'])[1]/preceding::select[1]</value>
+      <webElementGuid>ec2a6a02-bb21-4c34-a5e6-d554d609c6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The client acknowledges that this service is voluntarily undertaken by the client.'])[1]/preceding::select[1]</value>
+      <webElementGuid>b1124365-1d1c-4b5d-87c8-d489293bd1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_stepper_example_vertical']/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>8624fb7b-4228-4a17-bec2-97d5aaec1841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>370537d1-5c40-443c-b8a7-06a21d891516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

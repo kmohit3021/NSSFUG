@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DT001_Validate the dashboard loads as expected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f1ceeec-fd9d-49fc-a919-3cb2c57f741d</testCaseGuid>
+</TestCaseEntity>

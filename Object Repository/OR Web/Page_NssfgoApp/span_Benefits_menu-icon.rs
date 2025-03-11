@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Benefits_menu-icon</name>
+   <tag></tag>
+   <elementGuidId>3ba609c6-874a-45d8-ae90-d094fa8fe1c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//*[@aria-label='Benefits']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;kt_aside_menu_wrapper&quot;)/div[@id=&quot;kt_aside_menu&quot;]/div[@class=&quot;menu-item py-3&quot;]/a[@class=&quot;menu-link active&quot;]/span[@class=&quot;menu-icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Benefits&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8abc65ab-8148-4b4a-aacc-2cfe5d1bf31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-icon</value>
+      <webElementGuid>ea710a61-b50a-4987-8483-5e5975fecfed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu_wrapper&quot;)/div[@id=&quot;kt_aside_menu&quot;]/div[@class=&quot;menu-item py-3&quot;]/a[@class=&quot;menu-link active&quot;]/span[@class=&quot;menu-icon&quot;]</value>
+      <webElementGuid>2238092d-bc9b-4b68-bf0d-706f336313e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dasboard'])[1]/following::span[1]</value>
+      <webElementGuid>f55a1916-d93d-4934-8e95-5ab21ebe1c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-statement'])[1]/preceding::span[2]</value>
+      <webElementGuid>47ff72c7-3c22-4a67-a2f7-58a654694661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Profile'])[1]/preceding::span[6]</value>
+      <webElementGuid>0ea0b286-2687-49c4-a063-1a4fb8b491e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/div[2]/a/span</value>
+      <webElementGuid>e300baf0-b569-4a35-81f7-f80c3240c17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>18dfbd2c-e992-4515-abb3-6654928a817a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

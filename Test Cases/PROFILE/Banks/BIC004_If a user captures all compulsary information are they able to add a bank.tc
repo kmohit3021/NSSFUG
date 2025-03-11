@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BIC004_If a user captures all compulsary information are they able to add a bank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0e89748-fc2d-4efe-8b3a-10b70b824170</testCaseGuid>
+</TestCaseEntity>

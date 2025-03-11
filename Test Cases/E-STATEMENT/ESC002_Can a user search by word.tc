@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ESC002_Can a user search by word</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3132c4de-45a8-4354-aaa4-55657c887255</testCaseGuid>
+</TestCaseEntity>

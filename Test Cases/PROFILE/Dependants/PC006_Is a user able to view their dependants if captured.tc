@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC006_Is a user able to view their dependants if captured</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f5b17c1-d199-4801-9ba2-6877233bc50c</testCaseGuid>
+</TestCaseEntity>

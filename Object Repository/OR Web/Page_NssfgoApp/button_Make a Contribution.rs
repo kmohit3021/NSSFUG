@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Make a Contribution</name>
+   <tag></tag>
+   <elementGuidId>ce9e0726-0ee6-4502-8f69-dd75b77bf0ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='kt_drawer_example_dismiss_button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kt_drawer_example_dismiss_button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'Make a Contribution' or . = 'Make a Contribution')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Make a Contribution&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>61cf1d29-9e1e-4a0f-86a1-5817a53260ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kt_drawer_example_dismiss_button</value>
+      <webElementGuid>ad6e4551-7a40-4268-bbcd-7ffaed2672eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary fs-7 h-60px</value>
+      <webElementGuid>b9b45c21-f8b9-4089-90f6-ce89ca68dd4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make a Contribution</value>
+      <webElementGuid>90fad9c6-5134-4ede-b212-457c9a93d70b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_drawer_example_dismiss_button&quot;)</value>
+      <webElementGuid>4b8e05a0-b70d-472d-883d-832cda5465ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='kt_drawer_example_dismiss_button']</value>
+      <webElementGuid>e7b14dd0-a95b-470a-af73-2917a341f18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'kt_drawer_example_dismiss_button' and (text() = 'Make a Contribution' or . = 'Make a Contribution')]</value>
+      <webElementGuid>01f7dc51-2363-4f40-81bc-07c86e856e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Selected'])[1]/following::button[1]</value>
+      <webElementGuid>411fbe66-7b66-4608-b20f-9ffa0cc085fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::button[2]</value>
+      <webElementGuid>d4cbee36-7356-4376-9379-331abcf7979b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who are you contributing for ?'])[1]/preceding::button[1]</value>
+      <webElementGuid>59f723c5-4f89-4892-a1ab-975bd57eb828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who are you contributing for?'])[1]/preceding::button[1]</value>
+      <webElementGuid>17eaef93-cdbd-472e-86ca-127b1615e806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make a Contribution']/parent::*</value>
+      <webElementGuid>a8a29abe-06d8-45d9-9764-9b5e30f6c055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/div/button</value>
+      <webElementGuid>29f74cbf-5744-4279-82c3-577c4cb78352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>560366b0-e97a-463c-ae92-2de40039f061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

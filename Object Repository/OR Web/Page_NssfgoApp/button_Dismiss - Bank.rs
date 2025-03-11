@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dismiss - Bank</name>
+   <tag></tag>
+   <elementGuidId>14a6ffc1-4ecf-4afe-8a54-bf712702234a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id = 'bank_modal_close' and (text() = 'Dismiss ' or . = 'Dismiss ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-footer > #contact_modal_close</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'bank_modal_close' and (text() = 'Dismiss ' or . = 'Dismiss ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Dismiss&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ead25b1e-d974-4db7-a389-b8e2967e2200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bank_modal_close</value>
+      <webElementGuid>f57cdd40-c2e9-4bc5-9af4-3f2a2b40aa0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-drawer-dismiss</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>96af8969-b5c4-42e1-86e3-97c9eb2f5667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger fs-7</value>
+      <webElementGuid>dd5eb124-853a-4d92-939f-f5ec89bc42ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dismiss </value>
+      <webElementGuid>0f998d45-644c-470b-b97c-0b36ad50aad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact_modal&quot;)/div[@class=&quot;card rounded-0 w-100&quot;]/div[@class=&quot;card-footer&quot;]/button[@id=&quot;contact_modal_close&quot;]</value>
+      <webElementGuid>e12d7b79-dc89-4d30-8aea-b87eb4f48b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='contact_modal_close']</value>
+      <webElementGuid>99b90027-a4b6-413f-a2bd-db947ec0b0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'contact_modal_close' and (text() = 'Dismiss ' or . = 'Dismiss ')]</value>
+      <webElementGuid>18d60eac-dfdb-45db-a0f0-11f10ab10731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Dependants'])[1]/following::button[1]</value>
+      <webElementGuid>b4460950-97d3-4a39-b29a-ac151b746d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::button[2]</value>
+      <webElementGuid>43024c8d-ce53-4025-986c-3a3d0c717dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>ce6e3d99-a735-47e7-abdd-6b1a97ec6dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Profile is Incomplete'])[1]/preceding::button[2]</value>
+      <webElementGuid>3761dec5-a900-4b25-a99c-e276b1b3d5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dismiss']/parent::*</value>
+      <webElementGuid>89a568f4-f127-4341-b794-07824701e148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact_modal']/div/div[3]/button</value>
+      <webElementGuid>bb64d6fd-3f82-4b0b-a39a-bec70a577135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>0fc2a4da-0010-49ee-8b7b-d6a9dd3ddd4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

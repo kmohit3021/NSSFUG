@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ESC005_Download report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9009c4b3-8885-4314-a4c3-2cc000aaa62b</testCaseGuid>
+</TestCaseEntity>

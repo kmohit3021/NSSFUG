@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC009_Does the Relationship field on the Add dependants form have a dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b7c031c-7489-496f-8c31-96c1b824cc16</testCaseGuid>
+</TestCaseEntity>

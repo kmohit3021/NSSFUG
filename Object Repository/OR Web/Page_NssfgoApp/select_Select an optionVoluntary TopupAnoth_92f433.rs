@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select an optionVoluntary TopupAnoth_92f433</name>
+   <tag></tag>
+   <elementGuidId>08d32472-8d6e-4015-973b-d4e319d8694c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control._h60.fs-7.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@formcontrolname = 'customer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8c5ccf90-71fc-48cc-8556-66f8fd1bbae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>customer</value>
+      <webElementGuid>a75b5bf2-dcd4-4b09-9f6c-26c084f69021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control _h60 fs-7 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>95838724-57e1-46f1-ac4f-f02c6bf7e01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select an optionVoluntary TopupAnother MemberCompanySmart Life</value>
+      <webElementGuid>adbe1946-8b41-4864-a4d2-724b57027992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_drawer_example_dismiss&quot;)/div[@class=&quot;card rounded-0 w-100&quot;]/div[@class=&quot;card-body hover-scroll-overlay-y&quot;]/div[@class=&quot;card card-custom gutter-b _p50&quot;]/form[@class=&quot;form ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row col-xl-12&quot;]/div[@class=&quot;col-sm-12 col-xl-5&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;fv-row mb-7&quot;]/select[@class=&quot;form-control _h60 fs-7 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>31cabc27-fcb0-4bfc-8566-34e68ab99d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='']</value>
+      <webElementGuid>78680a4a-65d4-4676-b13a-906530eee625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select an optionVoluntary TopupAnother MemberCompanySmart Life' or . = 'Select an optionVoluntary TopupAnother MemberCompanySmart Life')]</value>
+      <webElementGuid>a8d0a426-d421-4ff2-b805-c17f70efa9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who are you contributing for?'])[1]/following::select[1]</value>
+      <webElementGuid>07ebcb91-ac1c-45a0-9377-ea48d448365e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who are you contributing for ?'])[1]/following::select[1]</value>
+      <webElementGuid>8df6a1d9-6130-4978-8cd1-10beeacbb12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
+      <webElementGuid>5425c9c2-d32f-440b-bea1-541cbee72f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete the payment using card'])[1]/preceding::select[1]</value>
+      <webElementGuid>abadbec2-8f29-4dc0-a8c9-d3286fb0c402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_drawer_example_dismiss']/div/div[2]/div/form/div/div/div/div/select</value>
+      <webElementGuid>46429820-3d4e-4483-b036-3b7c2754566d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0394e18d-82c4-4ce3-aa43-930ef353fb28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dependants</name>
+   <tag></tag>
+   <elementGuidId>5b52007a-0ae4-45ba-b2b6-7f4dd631e80d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Dependants' or . = 'Dependants')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Dependants&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9379a4b7-a6ef-470e-8c21-18d9af5d6cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title pl-5</value>
+      <webElementGuid>b5457a09-8a7a-4151-bbac-c228615ad733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dependants</value>
+      <webElementGuid>cc63486c-bcff-4496-bbda-64315919b360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu_wrapper&quot;)/div[@id=&quot;kt_aside_menu&quot;]/div[@class=&quot;menu-item py-3 show menu-dropdown&quot;]/div[@class=&quot;menu-sub menu-sub-dropdown w-225px px-1 py-4 bg-light-primary show&quot;]/div[@class=&quot;menu-item fs-7&quot;]/a[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-title pl-5&quot;]</value>
+      <webElementGuid>e7f21d37-413f-452a-9366-cd172188332b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dependants' or . = 'Dependants')]</value>
+      <webElementGuid>18b3dc16-cda0-40cf-8213-c072cf22daac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile OverView'])[1]/following::span[2]</value>
+      <webElementGuid>420df805-722f-473c-acdf-ea6a3184c60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Profile'])[1]/following::span[4]</value>
+      <webElementGuid>c86bd50c-9b6a-49d2-9f06-bc1b5c02e261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/preceding::span[2]</value>
+      <webElementGuid>914e5bdd-0e29-4492-aa05-feb2b3ac75e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banks'])[1]/preceding::span[4]</value>
+      <webElementGuid>2d3ed3b4-ac89-441e-9b7e-c22f63c5312f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dependants']/parent::*</value>
+      <webElementGuid>ddb6e8d4-eadf-4ab8-8b6c-05d1964c5427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/div[3]/div/div[5]/a/span[2]</value>
+      <webElementGuid>79cf48bf-96ce-4583-8ab6-90740fd57529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/span[2]</value>
+      <webElementGuid>f4b0e571-1e68-4e5c-972f-e0096f8c49fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

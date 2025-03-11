@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Make Contribution</name>
+   <tag></tag>
+   <elementGuidId>fc3bae2f-7609-4698-acdc-2202a008da9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-lg.btn-primary.h-60px.fs-7.font-weight-bolder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Make Contribution&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9a23f902-0a1e-44c2-9cd8-7a3e762904be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d37fe8e6-8b17-48b7-9974-943138167517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-primary h-60px fs-7 font-weight-bolder</value>
+      <webElementGuid>7c290756-eb16-4dd7-ad27-b1ee82c74292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make Contribution </value>
+      <webElementGuid>ce10e2ce-fa88-4fa7-91a0-58099803d8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_drawer_example_dismiss&quot;)/div[@class=&quot;card rounded-0 w-100&quot;]/div[@class=&quot;card-body hover-scroll-overlay-y&quot;]/div[@class=&quot;card card-custom gutter-b _p50&quot;]/form[@class=&quot;form ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;text-center pt-2 _mt10&quot;]/button[@class=&quot;btn btn-lg btn-primary h-60px fs-7 font-weight-bolder&quot;]</value>
+      <webElementGuid>6ab8016e-349f-4026-9405-ae7decdefec6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>aec20bbe-bf11-41b9-8d3c-7309f0705f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Make Contribution ' or . = 'Make Contribution ')]</value>
+      <webElementGuid>8b88374e-5ec0-4657-a52d-354e8bab6bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visa , Mastercard'])[1]/following::button[1]</value>
+      <webElementGuid>7a3fb1c4-f428-4eb1-b42b-ca53faf0dec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Card'])[1]/following::button[1]</value>
+      <webElementGuid>637596e8-ca3d-4a1c-8cc4-73dfe3c2ed1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c1d80ed-61b8-491f-b56b-c5ffe0a5f09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete the payment using card'])[1]/preceding::button[3]</value>
+      <webElementGuid>04461806-5913-4270-b363-ced7e6e9b90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make Contribution']/parent::*</value>
+      <webElementGuid>c1d94f23-b81d-41ae-a3db-2fe926b5a2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_drawer_example_dismiss']/div/div[2]/div/form/div[2]/button</value>
+      <webElementGuid>76fe1389-2b77-4909-8698-63c1cb4ad3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button</value>
+      <webElementGuid>1b0876a0-0480-4c86-be35-e32ea2321660</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

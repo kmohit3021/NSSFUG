@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC001_Is a user able to see their Photo, NSSF No, NIN and Date of Birth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c136d7aa-dda1-4c12-bfe9-a6ed96b8295b</testCaseGuid>
+</TestCaseEntity>

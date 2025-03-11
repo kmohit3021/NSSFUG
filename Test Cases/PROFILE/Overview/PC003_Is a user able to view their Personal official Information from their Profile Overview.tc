@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC003_Is a user able to view their Personal official Information from their Profile Overview</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb33232c-1961-4e0d-b97e-12fa86346ade</testCaseGuid>
+</TestCaseEntity>

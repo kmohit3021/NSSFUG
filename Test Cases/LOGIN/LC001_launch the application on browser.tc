@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LC001_launch the application on browser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c52dfc1-c3b8-41fa-b869-d107ccad5efc</testCaseGuid>
+</TestCaseEntity>

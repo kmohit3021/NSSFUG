@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Indentification</name>
+   <tag></tag>
+   <elementGuidId>1dc6a71a-a293-45ff-896c-29b7099e8a68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[(text() = ' Indentification ' or . = ' Indentification ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Indentification&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>82f0f005-d1ed-48ec-aac5-a04284ddcc59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stepper-title fs-7 text-gray-800</value>
+      <webElementGuid>7681ff63-4bd9-4c78-951c-e15a8c5846ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Indentification </value>
+      <webElementGuid>2cdc4400-33cb-4532-8eb8-5e4580481f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_stepper_example_vertical&quot;)/div[@class=&quot;d-flex flex-row-auto w-100 w-lg-300px flex-center _stepper_menu&quot;]/div[@class=&quot;stepper-nav&quot;]/div[@class=&quot;stepper-item me-5&quot;]/div[@class=&quot;stepper-label&quot;]/h3[@class=&quot;stepper-title fs-7 text-gray-800&quot;]</value>
+      <webElementGuid>13278589-a3b9-409b-8747-676ea8aecc69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Indentification ' or . = ' Indentification ')]</value>
+      <webElementGuid>b9722662-1c01-4f2f-8938-47c3087fe8b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Take a picture of yourself'])[1]/following::h3[1]</value>
+      <webElementGuid>da5ff3f4-2d35-4c3b-a071-9a333372c9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Picture'])[1]/following::h3[1]</value>
+      <webElementGuid>188d51ca-adf1-4830-bdd1-49e24cd0b506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIN Details'])[1]/preceding::h3[1]</value>
+      <webElementGuid>b9cd5cf7-cf21-4351-8075-d9f3f6f1a22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment details'])[1]/preceding::h3[1]</value>
+      <webElementGuid>9bbb3afe-9aee-4b72-a3ed-3f67447c634b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Indentification']/parent::*</value>
+      <webElementGuid>2f9d2207-ef87-498f-acfb-6f66be7b4cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_stepper_example_vertical']/div/div/div[3]/div[3]/h3</value>
+      <webElementGuid>235e60e5-463e-4c47-a562-454f181105a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/h3</value>
+      <webElementGuid>fa9896db-2b4d-4d7c-a89e-b9aa29c81d16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

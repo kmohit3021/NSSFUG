@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Input an incorrect email address (email address that hasn't registered before)
+2. Click the Login button</description>
+   <name>LC005_Is a user able to login with an incorrect email address</name>
+   <tag>login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05d70feb-9a3d-437c-8e71-cc785042ecf8</testCaseGuid>
+</TestCaseEntity>

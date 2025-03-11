@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_closeUpdateModalBtn</name>
+   <tag></tag>
+   <elementGuidId>bc66b3d0-99fd-4e08-a542-b491e5e75420</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'closeUpdateModalBtn' and (text() = 'closeUpdateModalBtn' or . = 'closeUpdateModalBtn')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#closeUpdateModalBtn</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'closeUpdateModalBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Press to Cancel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d73bc261-6b08-4104-a22a-652acec927b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7de9d84-8c17-469e-b97e-d11be5cad250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>closeUpdateModalBtn</value>
+      <webElementGuid>a4f29d78-bbaa-47e8-b781-fbe09f17f50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>c78444ce-d936-49b4-aad0-7385d921ee88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger h-60px</value>
+      <webElementGuid>0af91328-96f9-404b-a9c5-be109f4ea771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>closeUpdateModalBtn</value>
+      <webElementGuid>0a44d3f5-9293-4a5d-a141-1abe49b18613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Press to Cancel</value>
+      <webElementGuid>914f6756-c3fe-4e8e-b310-470cc17c945a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c1f952a5f64998d385f8f0bf216444ab</value>
+      <webElementGuid>506c3045-7bb6-4d1b-9dc2-ce5a1a4ae27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'closeUpdateModalBtn']</value>
+      <webElementGuid>d45c7696-3647-4ba4-9ad2-9eeec457fe81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'closeUpdateModalBtn' and (text() = 'closeUpdateModalBtn' or . = 'closeUpdateModalBtn')]</value>
+      <webElementGuid>fc1f3861-cf82-4929-8ad1-26e3be8fe415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'closeUpdateModalBtn']</value>
+      <webElementGuid>e4b0df57-ad48-43da-af54-b24122f94428</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

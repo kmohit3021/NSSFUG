@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Picture</name>
+   <tag></tag>
+   <elementGuidId>9e4497b6-fd5a-40a5-ae14-42f249235b40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[(text() = ' Picture ' or . = ' Picture ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Picture&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>42e21bfc-d882-48cf-a5ac-bc7787ab68ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stepper-title fs-7 text-gray-800</value>
+      <webElementGuid>00bb2329-f9d7-4760-b4cd-a54e6a1d7713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Picture </value>
+      <webElementGuid>8722f434-96eb-4b39-8338-4fbd27f32d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_stepper_example_vertical&quot;)/div[@class=&quot;d-flex flex-row-auto w-100 w-lg-300px flex-center _stepper_menu&quot;]/div[@class=&quot;stepper-nav&quot;]/div[@class=&quot;stepper-item me-5&quot;]/div[@class=&quot;stepper-label&quot;]/h3[@class=&quot;stepper-title fs-7 text-gray-800&quot;]</value>
+      <webElementGuid>a9c9d085-75c5-4fb7-90e6-3b74c1172dcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Picture ' or . = ' Picture ')]</value>
+      <webElementGuid>10eba4b6-7d07-43ed-88aa-00fda8fb29f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose a benefit Type'])[1]/following::h3[1]</value>
+      <webElementGuid>90c96371-9e20-4b7a-b653-84ed6056ca12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefit choice'])[1]/following::h3[1]</value>
+      <webElementGuid>2b0d7fa0-581c-4fa6-a353-68c8fdbf528d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Take a picture of yourself'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c073c3a7-45cd-4183-bbd2-65a0084ae1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indentification'])[1]/preceding::h3[1]</value>
+      <webElementGuid>f72e265e-74b3-40bb-bd5b-8dc79aa1662c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Picture']/parent::*</value>
+      <webElementGuid>75e90328-a545-4e40-be10-93f589181d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_stepper_example_vertical']/div/div/div[2]/div[3]/h3</value>
+      <webElementGuid>7964b1e3-8476-4375-b00f-0e0f2bd7a1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/h3</value>
+      <webElementGuid>12369976-7afd-4529-8a71-47a8b7115069</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

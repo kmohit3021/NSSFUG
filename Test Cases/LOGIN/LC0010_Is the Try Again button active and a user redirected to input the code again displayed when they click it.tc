@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LC0010_Is the Try Again button active and a user redirected to input the code again displayed when they click it</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4aaabc5e-f12b-41fc-b4e1-9564da0bfadd</testCaseGuid>
+</TestCaseEntity>

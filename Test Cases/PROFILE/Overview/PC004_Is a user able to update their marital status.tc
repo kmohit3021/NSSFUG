@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC004_Is a user able to update their marital status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c524187-b4c1-4bd5-b505-37806bb95e70</testCaseGuid>
+</TestCaseEntity>

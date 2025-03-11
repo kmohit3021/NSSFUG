@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>c8cc68c2-493c-4035-8497-4aa3ca59435f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-select-container.ng-has-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '××' or . = '××')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;××&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>933aa3cb-140c-4a8b-8437-36aca5996e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-select-container ng-has-value</value>
+      <webElementGuid>9c91cd71-4f68-4f98-ba4a-0bb7fddca045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>××</value>
+      <webElementGuid>48e114d0-492d-40de-bfbc-1c1a2456ab2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mySelect2&quot;)/div[@class=&quot;ng-select-container ng-has-value&quot;]</value>
+      <webElementGuid>4906328e-7f63-4669-8ede-e81ff21d0afb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '××' or . = '××')]</value>
+      <webElementGuid>b948988b-7672-496a-aad8-f64c44c31ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Bank'])[1]/following::div[1]</value>
+      <webElementGuid>247449d4-2d8b-4009-85ce-51c46e464063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Bank'])[1]/following::div[13]</value>
+      <webElementGuid>37a4ef67-78eb-4f3b-bda7-acc36aedb96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HABIB BANK LIMITED , DUBAI (United Arab Emirates)'])[1]/preceding::div[6]</value>
+      <webElementGuid>2b28ef4b-b930-49fd-a99a-127f634124e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLOM BANK, LEBANON'])[1]/preceding::div[7]</value>
+      <webElementGuid>d893ca19-a5df-481f-b7e0-c03db3f9d816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ng-select[@id='mySelect2']/div</value>
+      <webElementGuid>bbabb1d0-0ceb-4ba8-a148-dcccddf2bbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-select/div</value>
+      <webElementGuid>d226196a-0209-40bd-a477-f0c55de699f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

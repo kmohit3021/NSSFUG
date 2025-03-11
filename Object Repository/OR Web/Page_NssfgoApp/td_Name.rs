@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Name</name>
+   <tag></tag>
+   <elementGuidId>3aafdc13-ec1d-40fb-ac85-920cb73b0540</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Name' or . = 'Name')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.card-body > .table-responsive > .table-responsive > .table-bordered tr:nth-child(2) td:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[(text() = 'Name' or . = 'Name')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Name&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7dd1a455-dd0f-4303-be6f-6e0aadb7a08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>ad59118a-5865-4558-b2af-9bb2529a8132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>a4a69c27-ebe1-49c1-98b0-3ee25324ff49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cebf22a82c0e7a1ef5c8188548e8f6cd</value>
+      <webElementGuid>1623e8d2-ad39-4c81-98cb-432521a3073c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card-body ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-responsive ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-responsive ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-bordered ')]//*[(name() = 'tr') and (position() = 2)]//*[(name() = 'td') and (position() = 1)]</value>
+      <webElementGuid>63653680-b91b-4f61-a9f3-3bbc277d686b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Name' or . = 'Name')]</value>
+      <webElementGuid>b79a8fab-5630-46e0-bcc6-c52925408c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card-body ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-responsive ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-responsive ')]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-bordered ')]//*[(name() = 'tr') and (position() = 2)]//*[(name() = 'td') and (position() = 1)]</value>
+      <webElementGuid>0795dfe4-1aa5-434d-8436-a8af059cf207</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

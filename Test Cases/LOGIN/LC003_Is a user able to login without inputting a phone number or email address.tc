@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On the login page click the Login Button
+
+Login button should be grayed out and inactive</description>
+   <name>LC003_Is a user able to login without inputting a phone number or email address</name>
+   <tag>LOGIN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc6d6d69-3bee-439b-a083-14b28242b209</testCaseGuid>
+</TestCaseEntity>

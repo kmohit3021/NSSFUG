@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC008_Is a user able to cancel adding a dependant by clicking the Dismiss button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75024620-db76-458e-ae9f-062b42690809</testCaseGuid>
+</TestCaseEntity>

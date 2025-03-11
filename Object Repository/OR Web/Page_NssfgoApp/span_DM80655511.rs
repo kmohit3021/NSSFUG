@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DM80655511</name>
+   <tag></tag>
+   <elementGuidId>d9c49cee-8af7-4bf2-a32f-27c93108a182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'DM80655511' or . = 'DM80655511')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;DM80655511&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ce1235b-7227-45e8-931f-1b5738abdbee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-700 fs-6 _fpoppins</value>
+      <webElementGuid>266de24d-cbf5-4811-b38c-c1d2d4eb5fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DM80655511</value>
+      <webElementGuid>82f6aef5-bb4f-466d-9c7d-a9f11507354c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_table_customers_payment&quot;)/tbody[@class=&quot;fs-6 fw-bold text-gray-600 border-top&quot;]/tr[@class=&quot;border-gray-200&quot;]/td[@class=&quot;fs-8 min-w-xl-100px&quot;]/div[1]/div[@class=&quot;pt-3&quot;]/span[@class=&quot;text-gray-700 fs-6 _fpoppins&quot;]</value>
+      <webElementGuid>ded1dc6d-ea34-4721-8945-be6814305460</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DM80655511' or . = 'DM80655511')]</value>
+      <webElementGuid>bc1a16ca-fcd8-4fa1-9068-3532993ec92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID number'])[3]/following::span[1]</value>
+      <webElementGuid>0314a310-e100-4e2d-8bdd-3214ea9f2065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='born :'])[5]/following::span[2]</value>
+      <webElementGuid>61bca9f5-cb97-4978-8f3a-ce1c5194e302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='born :'])[6]/preceding::span[1]</value>
+      <webElementGuid>2c50bedc-e679-4716-916f-b6b3ef9d52bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DM80655511']/parent::*</value>
+      <webElementGuid>42b26957-f18b-4e01-86b2-60060e01345b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_table_customers_payment']/tbody/tr[3]/td[2]/div/div[2]/span</value>
+      <webElementGuid>c557e684-f063-4325-b062-f0be47d94526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/div/div[2]/span</value>
+      <webElementGuid>a5f1344b-89ec-4be5-8f60-d8411164ed8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_Profile - Dependents</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daed6ba0-1b66-48bd-9442-8aa90970d8b8</testCaseGuid>
+</TestCaseEntity>

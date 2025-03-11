@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Timeline</name>
+   <tag></tag>
+   <elementGuidId>36511b6c-4874-4066-896a-76a264e5b70c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[(text() = 'Timeline' or . = 'Timeline')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Timeline&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>9d5055de-81bf-439f-a2b4-9a700d59fe52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Timeline</value>
+      <webElementGuid>0d9369bf-3365-4f21-b8b5-b629b4fadbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_customer_view_overview_tab&quot;)/div[@class=&quot;card shadow mb-6 mb-xl-9&quot;]/div[@class=&quot;card-body pt-0 pb-5&quot;]/table[@class=&quot;table align-middle table-row-dashed table-bordered gy-5&quot;]/thead[@class=&quot;border-bottom border-gray-300 fs-7 fw-bolder&quot;]/tr[@class=&quot;text-start text-muted text-gray-800 gs-0 py-5&quot;]/th[3]</value>
+      <webElementGuid>51d60238-9506-4aaf-bc1f-fa356aa69837</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Timeline' or . = 'Timeline')]</value>
+      <webElementGuid>dd9f5695-393f-4c52-943c-73aa9476c631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount (Ugx)'])[1]/following::th[1]</value>
+      <webElementGuid>64adad2c-4f9b-4a26-a1c0-5d49abc345e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employer'])[1]/following::th[2]</value>
+      <webElementGuid>16043316-a97b-4b06-a890-d31b1a9fff9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct 2017 - Feb 2025 (-8yrs)'])[1]/preceding::th[1]</value>
+      <webElementGuid>00a994e2-f7f0-490c-83bd-02aa425538fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar 2017 - Sept 2017 (0yrs)'])[1]/preceding::th[1]</value>
+      <webElementGuid>dd1ce5bb-f611-4901-b30f-8d90d935ff3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Timeline']/parent::*</value>
+      <webElementGuid>2adea3d0-da4a-4cc5-b71a-44b984e20923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_customer_view_overview_tab']/div/div[2]/table/thead/tr/th[3]</value>
+      <webElementGuid>0186af83-18ab-4cec-b91a-3212f9631767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>71e0ec5d-e221-40cc-a7f1-b5557bc82aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

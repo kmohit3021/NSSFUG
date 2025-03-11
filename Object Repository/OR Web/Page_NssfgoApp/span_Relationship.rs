@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Relationship</name>
+   <tag></tag>
+   <elementGuidId>9e120bc9-f0f7-4ad4-9516-0b1ae00c00dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Relationship' or . = 'Relationship')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.required</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'required' and (text() = 'Relationship' or . = 'Relationship')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Relationship&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b57574b8-18a5-4eab-8961-c4866258d8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>7679bacb-76d0-496b-87d7-c2016388f7c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Relationship</value>
+      <webElementGuid>b133299f-9694-4bfb-b040-19ab855e7c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact_modal&quot;)/div[@class=&quot;card rounded-0 w-100&quot;]/div[@class=&quot;card-body hover-scroll-overlay-y&quot;]/div[@class=&quot;card card-custom gutter-b _p50&quot;]/form[@class=&quot;form _fpoppins ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 col-sm-12&quot;]/div[@class=&quot;fv-row mb-5&quot;]/label[@class=&quot;form-label fs-8 fw-normal fw-bold text-gray-700&quot;]/span[@class=&quot;required&quot;]</value>
+      <webElementGuid>6c7e4298-787b-4ccb-a8de-edaef6ff4867</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Relationship' or . = 'Relationship')]</value>
+      <webElementGuid>e17b9707-7156-4810-aea7-2151e2901aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='born :'])[6]/following::span[2]</value>
+      <webElementGuid>6f5bcba6-d2c4-410e-81cf-48f0655a4963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nin (National Indentification Number)'])[1]/preceding::span[7]</value>
+      <webElementGuid>d5ff395d-1cc6-4832-9dfc-8eb73d0418b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::span[7]</value>
+      <webElementGuid>e1b6a2e6-79b7-4877-ba3e-9562012c868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact_modal']/div/div[2]/div/form/div/div/div/label/span</value>
+      <webElementGuid>98f8fb79-c2f0-411a-9d09-ffa2c9ba4fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/label/span</value>
+      <webElementGuid>72bba10c-577c-4f04-bade-0b2b50490e48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
